@@ -67,11 +67,11 @@ The Kyphosis dataset contains the following columns:
     - 4.1 Identify the variables
     - 4.2 Dealing with Missing values
     - 4.3 Dealing with the Non-numerical features
-5. Train and Test the Decision Trees Classifier model
+5. Train and Test the Decision Tree Classifier model
     - 5.1 Split the columns
     - 5.2 Split the data into Training dataset and Testing dataset
-    - 5.3 Create the Decision Trees Classifier model
-    - 5.4 Train / fit Decision Trees Classifier model
+    - 5.3 Create the Decision Tree Classifier model
+    - 5.4 Train / fit Decision Tree Classifier model
     - 5.5 Predictions from the model on Testing data
     - 5.6 Evaluate the model on Testing data
       - 5.6.1 Classification report
@@ -80,10 +80,10 @@ The Kyphosis dataset contains the following columns:
     - 5.8 Tree visualization
     - 5.9 GridSearchCV
       - 5.9.1 Create the Grid of parameters
-      - 5.9.2 Create the GridSearchCV model (Re-create the Decision Trees Classifier model)
-      - 5.9.3 Train / fit the GridSearchCV model (Re-train / Re-fit the Decision Trees Classifier model)
-      - 5.9.4 Predictions from the GridSearchCV model (Re-predictions from the Decision Trees Classifier model) on Testing data
-      - 5.9.5 Evaluate the GridSearchCV model (Re-evaluate the Decision Trees Classifier model) on Testing data
+      - 5.9.2 Create the GridSearchCV model (Re-create the Decision Tree Classifier model)
+      - 5.9.3 Train / fit the GridSearchCV model (Re-train / Re-fit the Decision Tree Classifier model)
+      - 5.9.4 Predictions from the GridSearchCV model (Re-predictions from the Decision Tree Classifier model) on Testing data
+      - 5.9.5 Evaluate the GridSearchCV model (Re-evaluate the Decision Tree Classifier model) on Testing data
         - 1. Classification report
         - 2. Confusion matrix
 
