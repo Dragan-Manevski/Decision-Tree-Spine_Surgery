@@ -1,6 +1,6 @@
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 # Decision Trees - Spine Surgery
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Decision Trees:
 - an **algorithm**:
     - based on **Supervised Learning**
@@ -25,7 +25,7 @@
 - Behave with **“if this, then that”** condition                   
 - **Not** to be used **for larger datasets**
 
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Project Objective: Predicting if spine surgery was successful
 Create a model that allows to put in a few features of children who have had corrective spine surgery due to Kyphosis and returns back a prediction (classification) if the corrective spine surgery was successful. Information about the children who have had corrective spine surgery is in the dataset 'Kyphosis_Data.csv'. The Kyphosis dataset has 81 rows and 4 columns. 
 
@@ -37,7 +37,7 @@ The Kyphosis dataset contains the following columns:
 
 **Source**: John M. Chambers and Trevor J. Hastie eds. (1992) Statistical Models in S, Wadsworth and Brooks/Cole, Pacific Grove, CA.
 
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Table of Contents:
 1. File Descriptions
 2. Technologies Used
